@@ -55,6 +55,7 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
+    <PackageReference Include="Pek.Common" Version="4.12.2025.623-beta1318" />
     <PackageReference Include="System.Threading.Channels" Version="9.0.6" />
   </ItemGroup>
 
